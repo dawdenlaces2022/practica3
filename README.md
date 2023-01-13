@@ -15,3 +15,4 @@ Manuel Aznar Martinez
 Joan Heredia Martí
 Jieke Xie
 Teresa Esteban
+Ignacio De Miguel
